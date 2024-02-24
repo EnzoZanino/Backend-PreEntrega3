@@ -1,3 +1,5 @@
 node_modules
 # env.js
 # dirname.js
+.env.development
+.env.production
